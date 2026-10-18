@@ -113,7 +113,6 @@ companies:
   is_api_provider: true
   matched_by: domain
 - name: Cmd
-  url: https://cmd.com
   description: Security platform for Linux, widely used in cloud systems across thousands of servers.
   sector: cybersecurity
   stage: unknown
