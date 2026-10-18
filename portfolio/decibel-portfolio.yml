@@ -1,0 +1,482 @@
+generated: '2026-10-18'
+method: searched
+source: https://www.decibel.vc/companies
+note: All companies listed on decibel.vc/companies (static Webflow page). Cmd card has no outbound link;
+  name from the firm's own "Cmd" investment article, acquired by Elastic per the card.
+summary:
+  portfolio_total: 41
+  in_network: 26
+  api_providers: 14
+  missing: 15
+  stubs_created: 0
+companies:
+- name: Abacus.AI
+  url: https://abacus.ai
+  description: End-to-end AI platform that enables real-time deep learning at scale for common enterprise
+    use cases.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: abacusai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Akuity
+  url: https://akuity.io
+  description: Advanced Application Delivery for Kubernetes, from the creators of Argo.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: akuity
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Answer.AI
+  url: https://answer.ai
+  description: Answer.AI is a new kind of AI R&D lab which creates practical end-user products based on
+    foundational research breakthroughs.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: answerai
+  in_network: false
+  is_api_provider: false
+- name: Aomni
+  url: https://aomni.com
+  description: Aomni is an AI research platform for end-to-end B2B sales workflows.
+  sector: autonomous-software
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: aomni
+  in_network: false
+  is_api_provider: false
+- name: Bicycle
+  url: https://bicycle.io
+  description: Automated Business Intelligence Using LLMs and GenAI.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: bicycle
+  in_network: false
+  is_api_provider: false
+- name: Blameless
+  url: https://blameless.com
+  description: End-to-end SRE platform. Optimizes service reliability and automates workflows to resolve
+    incidents faster.
+  sector: developer-platforms
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Freshworks
+  slug: blameless
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Botpress
+  url: https://botpress.com
+  description: Open-source conversational AI platform for chatbot development using generative AI and
+    foundation models.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: botpress
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Brightwave
+  url: https://brightwave.io
+  description: Brightwave is an AI research assistant that generates tight, actionable financial analysis
+    on any subject.
+  sector: autonomous-software
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: brightwave
+  in_network: false
+  is_api_provider: false
+- name: Censys
+  url: https://censys.com
+  description: The authority for real-time Internet intelligence. Trusted by governments and enterprises
+    worldwide to reduce exposures, improve threat visibility, & accelerate response.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: censys
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Cmd
+  url: https://cmd.com
+  description: Security platform for Linux, widely used in cloud systems across thousands of servers.
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Elastic
+  slug: cmd
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Cube
+  url: https://cube.dev
+  description: The Semantic Layer for building data apps and making your data consistent and accessible
+    across every app.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: cube
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Dreadnode
+  url: https://dreadnode.io
+  description: Dreadnode is developing the most advanced suite of offensive AI solutions that enable more
+    effective evaluation, testing, and deployment of models.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: dreadnode
+  in_network: false
+  is_api_provider: false
+- name: Dropzone AI
+  url: https://dropzone.ai
+  description: Autonomous alert investigation platform. Its pre-trained AI agents fully investigate 100%
+    of security alerts.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: dropzone-ai
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: E2B
+  url: https://e2b.dev
+  description: Secure sandboxes for AI-generated code execution.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: e2b-dev
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Ent
+  url: https://ent.ai
+  description: Ent is the intent-aware endpoint platform for securing human and AI-driven work. Built
+    to protect productivity, Ent is deployed at Global 2000 customers.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: ent
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Fixify
+  url: https://fixify.com
+  description: Fixify is an AI powered managed service provider for IT support.
+  sector: autonomous-software
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: fixify
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Knocknoc
+  url: https://knocknoc.io
+  description: Network orchestration platform enabling just-in-time access at scale using existing infrastructure,
+    eliminating attack surface and significantly reducing exposure to current and emerging threats.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: knocknoc
+  in_network: false
+  is_api_provider: false
+- name: Magnify
+  url: https://magnify.io
+  description: The operating system to manage the customer lifecycle with actionable insights and personalized
+    engagement.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: magnify
+  in_network: false
+  is_api_provider: false
+- name: Mallory
+  url: https://mallory.ai
+  description: Mallory is the AI-Native Threat Intelligence platform that contextualizes risk to your
+    environment and drives action before incidents happen.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: mallory
+  in_network: false
+  is_api_provider: false
+- name: Mantis Biotech
+  url: https://mantisbiotech.com
+  description: Simulative AI infrastructure for biomedical and multimodal data.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: mantis
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Nebulock
+  url: https://nebulock.io
+  description: Agentic Threat Hunting
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: nebulock
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nira
+  url: https://nira.com
+  description: Real-time access control for complete visibility and control over who has access to company
+    documents.
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Dropbox
+  suggested_slug: nira
+  in_network: false
+  is_api_provider: false
+- name: NocoDB
+  url: https://nocodb.com
+  description: Open source, no-code platform that turns any data store into a smart spreadsheet.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: nocodb
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pachyderm
+  url: https://pachyderm.com
+  description: Data-driven pipelines for Machine Learning.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: HP Enterprise
+  slug: pachyderm
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Pangea
+  url: https://pangea.cloud
+  description: Platform for engineering teams to integrate best-of-breed security services through a single
+    API.
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: CrowdStrike
+  slug: pangea
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Penpot
+  url: https://penpot.app
+  description: Design Freedom for Teams. The first Open Source design and prototyping platform.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: penpot
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pixee
+  url: https://pixee.ai
+  description: Automated product security engineer that analyzes vulnerabilities in source code and provides
+    fixes and remediation.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: pixee-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Platformatic
+  url: https://platformatic.dev
+  description: Fast backend development platform to speed the development of modern backends and simplify
+    their operations.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: platformatic
+  in_network: false
+  is_api_provider: false
+- name: Propelo
+  url: https://propelo.ai
+  description: Platform for engineering excellence and productivity in the enterprise.
+  sector: developer-platforms
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Harness
+  suggested_slug: propelo
+  in_network: false
+  is_api_provider: false
+- name: Prowler
+  url: https://prowler.com
+  description: Ensuring Transparent and Effective Cloud Security Management.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: prowler
+  in_network: false
+  is_api_provider: false
+- name: Push Security
+  url: https://pushsecurity.com
+  description: The browser-native identity security platform that detects and stops identity attacks.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: push-security
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Root
+  url: https://root.io
+  description: Continuous software supply chain security for containers so developers can build better,
+    more secure cloud-native apps.
+  sector: developer-platforms
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Aikido
+  slug: root-fka-slimai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: runZero
+  url: https://runzero.com
+  description: The fastest way to get to full asset inventory, uncover security coverage gaps, and identify
+    risky assets.
+  sector: cybersecurity
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Accenture
+  suggested_slug: runzero
+  in_network: false
+  is_api_provider: false
+- name: Scrunch
+  url: https://scrunch.com
+  description: The leading AI customer experience platform helping brands gain visibility and outcomes
+    via AI search.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Sitecore
+  slug: scrunch-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SpecterOps
+  url: https://specterops.io
+  description: Attack Path Management that maps and monitors identity Attack Paths in Active Directory
+    and Azure.
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: specterops
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Spotnana
+  url: https://spotnana.com
+  description: Travel-as-a-Service platform providing infrastructure to deliver unparalleled travel experiences.
+  sector: developer-platforms
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: spotnana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Strella
+  url: https://strella.io
+  description: End-to-end customer research platform that uses AI-moderated interviews and real-time synthesis
+    to deliver human insights at scale.
+  sector: autonomous-software
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: strella
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Sublime Security
+  url: https://sublime.security
+  description: 'Email threat detection and response: blocks phishing attacks and hunts for threats with
+    a community-first approach.'
+  sector: cybersecurity
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: emailrep
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Unconventional AI
+  url: https://unconv.ai
+  description: Unconventional AI is rethinking the foundations of a computer to optimize energy efficiency
+    for AI.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  slug: unconv
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: UserClouds
+  url: https://userclouds.com
+  description: Privacy-as-a-service platform that helps engineering teams spend less time on privacy.
+  sector: developer-platforms
+  stage: unknown
+  status: acquired
+  source: https://www.decibel.vc/companies
+  acquired_by: Microsoft
+  suggested_slug: userclouds
+  in_network: false
+  is_api_provider: false
+- name: Veris AI
+  url: https://veris.ai
+  description: The Training Ground for Enterprise AI Agents.
+  sector: data-ml-ai-infrastructure
+  stage: unknown
+  status: active
+  source: https://www.decibel.vc/companies
+  suggested_slug: veris-ai
+  in_network: false
+  is_api_provider: false

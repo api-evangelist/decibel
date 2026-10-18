@@ -1,0 +1,24 @@
+generated: '2026-10-18'
+method: searched
+source: https://www.decibel.vc/team
+team:
+  - {name: Jon Sakoda, role: Founder}
+  - {name: Dan Nguyen-Huu, role: Partner}
+  - {name: Alessio Fanelli, role: Partner}
+  - {name: Lauren Ipsen, role: Talent Partner}
+  - {name: Stacey Wueste, role: Business Development Partner}
+  - {name: Rajiv Menon, role: "Managing Director, APAC & Japan"}
+  - {name: Stacey Ernest, role: CFO}
+  - {name: Tanya Dargel, role: Administrative Partner}
+founder_advisors:
+  - {name: Andrew Peterson, role: "Founder & CEO, Signal Sciences"}
+  - {name: Bhaskar Sunkara, role: "Co-Founder & CTO, AppDynamics"}
+  - {name: Charlie (Tuna) Moore, role: "Deputy Director, US Cyber Command"}
+  - {name: David Luber, role: "Cyber Director, NSA"}
+  - {name: Dug Song, role: "Co-Founder & CEO, Duo Security"}
+  - {name: Jon Oberheide, role: "Co-Founder & CTO, Duo Security"}
+  - {name: Marty Roesch, role: "Founder & CEO, Sourcefire"}
+  - {name: Michele Catasta, role: "President & Head of AI, Replit"}
+  - {name: Patrick Gray, role: "Founder, Risky Business"}
+  - {name: Punit Minocha, role: "Corp Dev, Palo Alto & Zscaler"}
+  - {name: Shawn (Swyx) Wang, role: Latent Space}
